@@ -28,16 +28,16 @@
 }      
 
 .card-top {
-   position: absolute
+   position: absolute;
    left: 150px;
    top: 100px;
 
 }
 
 .card-bottom {
-   position: absolute
+   position: absolute;
    left: 240px;
-   top: 120px
+   top: 120px;
 
 }
 
