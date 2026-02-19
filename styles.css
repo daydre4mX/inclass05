@@ -29,12 +29,12 @@
 
 .card-top {
    /* TODO: Add part of your solution here */
-
+   z-index: 20;
 }
 
 .card-bottom {
    /* TODO: Add part of your solution here */
-
+   z-index: 10;
 }
 
 .heart {
