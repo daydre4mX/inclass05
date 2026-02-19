@@ -27,6 +27,9 @@
 
    /* TODO: Add part of your solution here */
 
+   border-radius: 5px;
+   box-shadow: 3px 3px 0px black;
+
 }      
 
 .card-top {
